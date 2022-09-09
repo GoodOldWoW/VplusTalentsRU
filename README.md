@@ -1,7 +1,9 @@
-# VplusTalentsRU <img align="right" src="https://img.shields.io/github/license/GoodOldWoW/VplusTalentsRU?style=flat-square"> <img align="right" src="https://img.shields.io/github/v/release/GoodOldWoW/VplusTalentsRU?include_prereleases&style=flat-square">
+# VplusTalentsRU <img align="right" src="https://img.shields.io/badge/license-MIT-brightgreen"> <img align="right" src="https://img.shields.io/github/v/release/GoodOldWoW/VplusTalentsRU?include_prereleases">
 
 <!--
-[![GitHub release tag](https://img.shields.io/github/v/release/GoodOldWoW/VplusTalentsRU?include_prereleases)](../../releases/latest) 
+[![GitHub license](https://img.shields.io/github/license/GoodOldWoW/VplusTalentsRU)](LICENSE.md)
+[![GitHub release tag](https://img.shields.io/github/v/release/GoodOldWoW/VplusTalentsRU?include_prereleases)](../../releases/latest)
+
 [![GitHub license](https://img.shields.io/github/license/GoodOldWoW/VplusTalentsRU?style=flat-square)](LICENSE.md)
 [![GitHub release tag](https://img.shields.io/github/v/release/GoodOldWoW/VplusTalentsRU?include_prereleases&style=flat-square)](../../releases/latest)
 -->
