@@ -1,4 +1,4 @@
-# VplusTalentsRU [<img align="right" src="https://img.shields.io/badge/license-MIT-brightgreen">](LICENSE.md) [<img align="right" src="https://img.shields.io/github/v/release/GoodOldWoW/VplusTalentsRU?include_prereleases">](../../releases/latest)
+# VplusTalentsRU [<img align="right" src="https://img.shields.io/badge/license-MIT-brightgreen">](LICENSE.md) [<img align="right" src="https://img.shields.io/github/v/release/GoodOldWoW/VplusTalentsRU?include_prereleases">](CHANGELOG.md)
 
 <!--
 [![GitHub license](https://img.shields.io/github/license/GoodOldWoW/VplusTalentsRU)](LICENSE.md)
