@@ -22,4 +22,4 @@ Ready for update 08.09.2022
 ## Installation
 1. [Download latest release](../../releases/latest) (section `Assets`, link `Source code (zip)`)
 1. Open the contents of the downloaded archive
-1. Copy folders `Fonts` and `Interface` to `path to installed game\`
+1. Copy folders `Fonts` and `Interface` to `Path to installed game\`
