@@ -10,7 +10,8 @@
 
 Addon adds a description of talents in Russian language. Talent translation is available for the following classes: Mage.
 
-Designed for Vanilla Plus server. Server updates can break the translation of talents that change. Ready for update 08.09.2022
+Designed for Vanilla Plus server. Server updates can break the translation of talents that change.<br>
+Ready for update 08.09.2022
 
 ## Guide
 1. Press and hold the `Alt` key
